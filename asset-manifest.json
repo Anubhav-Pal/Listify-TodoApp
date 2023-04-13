@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Listify-TodoApp/static/js/main.2d063dca.js",
+    "index.html": "/Listify-TodoApp/index.html",
+    "main.2d063dca.js.map": "/Listify-TodoApp/static/js/main.2d063dca.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2d063dca.js"
+  ]
+}
